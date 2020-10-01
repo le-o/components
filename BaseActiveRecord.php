@@ -1,5 +1,5 @@
 <?php
-namespace webvimark\components;
+namespace leo\components;
 
 use webvimark\helpers\LittleBigHelper;
 use webvimark\helpers\Singleton;

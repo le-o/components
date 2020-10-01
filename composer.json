@@ -1,5 +1,5 @@
 {
-	"name": "webvimark/components",
+	"name": "leo/components",
 	"description": "Components for yii 2",
 	"require": {
 		"webvimark/image": "^1.0.0",
@@ -7,7 +7,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"webvimark\\components\\": ""
+			"leo\\components\\": ""
 		}
 	}
 }
